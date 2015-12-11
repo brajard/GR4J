@@ -14,7 +14,7 @@ hat_name "GR4J.h"
 
 #OPTION ---------------------------------------------OPTION
 option  O_GRADTEST
-option  O_M1QN3 M2QN1
+option  O_M1QN3
 #option O_REAL float
 option  O_VARINCR
 ###option  O_cadna 
