@@ -1,0 +1,993 @@
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h:643: error: ‘float_st’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h: In function ‘int Yio_load(YioKind, char*, char*, int, char*)’:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h:1558: error: ‘float_st’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h:1619: error: ‘float_st’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h: In function ‘double Ycostdiff(double, double)’:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h:1886: error: ‘double_st’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h:1886: error: expected ‘;’ before ‘gradient’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h:1893: error: ‘gradient’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h:1897: error: ‘gradient’ was not declared in this scope
+In file included from YGR4J.cpp:1541:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h: In function ‘void Yprintobs(int, char*, int, int, int, int, int, int, double*, double*)’:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h:2473: error: ‘strp’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h:2475: error: ‘strp’ was not declared in this scope
+In file included from YGR4J.cpp:2203:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h: At global scope:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:59: error: ‘double_st’ does not name a type
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:67: error: ‘double_st’ does not name a type
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:68: error: ‘double_st’ does not name a type
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:75: error: ‘double_st’ does not name a type
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:88: error: ‘float_st’ does not name a type
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:89: error: ‘double_st’ does not name a type
+In file included from YGR4J.cpp:2203:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:162: error: ‘double_st’ has not been declared
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:162: error: ‘double_st’ has not been declared
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:162: error: ‘double_st’ has not been declared
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:163: error: ‘float_st’ has not been declared
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:163: error: ‘double_st’ has not been declared
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h: In function ‘void Y3simul(int*, long int*, int*, int*, int*, long int*, int*, int*)’:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:173: error: cannot convert ‘int*’ to ‘float*’ for argument ‘1’ to ‘void Y3getstate_all(float*)’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:181: error: ‘float_st’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:181: error: expected ‘;’ before ‘YTotalCost’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:186: error: cannot convert ‘int*’ to ‘float*’ for argument ‘1’ to ‘void Y3valgrad_all(float*)’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h: In function ‘int Y3run(char)’:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:195: error: ‘double_st’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:195: error: expected ‘;’ before ‘sv_epsg’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:196: error: expected ‘;’ before ‘dxmin’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:226: error: ‘sv_epsg’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:226: error: ‘Y3epsg’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:244: error: ‘Y3f’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:244: error: ‘float_st’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:244: error: expected ‘;’ before ‘YTotalCost’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:259: error: ‘Y3df1’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:259: error: ‘Y3ddf1’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:261: error: ‘dxmin’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:285: error: ‘euclid_’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:285: error: ‘ctonbe_’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:285: error: ‘ctcabe_’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:287: error: ‘Y3rzs’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:287: error: ‘Y3dzs’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h: At global scope:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:361: error: ‘double_st’ has not been declared
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:361: error: ‘double_st’ has not been declared
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:361: error: ‘double_st’ has not been declared
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:362: error: ‘float_st’ has not been declared
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:362: error: ‘double_st’ has not been declared
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h: In function ‘void Yc3_simul(int*, long int*, int*, int*, int*, long int*, int*, int*)’:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:372: error: cannot convert ‘int*’ to ‘float*’ for argument ‘1’ to ‘void Y3getdelta_all(float*)’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:386: error: cannot convert ‘int*’ to ‘float*’ for argument ‘1’ to ‘void Y3valgrad_all(float*)’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h: In function ‘int Yc3_run(char)’:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:396: error: ‘double_st’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:396: error: expected ‘;’ before ‘sv_epsg’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:397: error: expected ‘;’ before ‘dxmin’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:444: error: ‘sv_epsg’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:444: error: ‘Y3epsg’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:522: error: ‘Y3f’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:522: error: ‘float_st’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:522: error: expected ‘;’ before ‘YTotalCost’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:537: error: ‘Y3df1’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:537: error: ‘Y3ddf1’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:539: error: ‘dxmin’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:563: error: ‘euclid_’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:563: error: ‘ctonbe_’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:563: error: ‘ctcabe_’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:565: error: ‘Y3rzs’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:565: error: ‘Y3dzs’ was not declared in this scope
+In file included from YGR4J.cpp:2209:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyntst.h: At global scope:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyntst.h:8: error: variable or field ‘Ytestad_mod’ declared void
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyntst.h:8: error: ‘double_st’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyntst.h:8: error: ‘double_st’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyntst.h:8: error: expected primary-expression before ‘int’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyntst.h:8: error: ‘double_st’ was not declared in this scope
+In file included from YGR4J.cpp:1541:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h: In function ‘void Yiorwf(char*, int, int, int, int, int, TypReal*, TypReal) [with TypReal = double]’:
+Y2GR4J.h:156:   instantiated from here
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h:644: error: ‘strp’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h:646: error: ‘strp’ was not declared in this scope
+ > end of compilation, start linking 
+g++  -DYO_CADNA    -Wall -DLINUXPC -Wno-deprecated -Wno-write-strings -I/usr/home/jbrlod/these/prog/yao9_pei/yao/include -I/usr/local/include/ -g -O0  -m64 -I/usr/include  /usr/local/lib/libcadnaC.a /usr/local/lib/libcadnaF.a -o GR4J Ymain_GR4J.o YGR4J.o  -L/usr/local/lib -lcadnaC  -L/usr/home/jbrlod/these/prog/yao9_pei/yao/share/m1qn3//bin -lmqnC   -lm -lgfortran -L/usr/lib64 -lnetcdf  -L/usr/local/lib -lcadnaF -g -m64 -lstdc++ -lm
+g++: /usr/local/lib/libcadnaC.a: No such file or directory
+g++: /usr/local/lib/libcadnaF.a: No such file or directory
+g++: YGR4J.o: No such file or directory
+
+ > unpredictable mistakes : PROJECT BUILDING FAILED
+
+New structure
+adonis{nylod}849: ls ~jbrlod/.cs
+.cshrc         .cshrc.orig    .cshrc_perso   .cshrc_perso~  
+adonis{nylod}849: ls ~jbrlod/.cshrc_p
+.cshrc_perso   .cshrc_perso~  
+adonis{nylod}849: ls ~jbrlod/.cshrc_perso
+/usr/home/jbrlod/.cshrc_perso
+adonis{nylod}850: less ~jbrlod/.cshrc_perso
+adonis{nylod}851: exit
+exit
+adonis{nylod}904: bash
+ --> terminal type for xterm :
+     - Linux terminal (xterm / Linux) ...
+ --> test d'imprimante :  hpl5.
+adonis{nylod}852: echo $cadnaCdir
+/usr/home/jbrlod/these/prog/cadna
+adonis{nylod}853: ls
+donneesBenin       GR4J     GR4J.i~   MS1.h   MS3.h        PNX1.h  Q1 (copie).h  QD.h  residu.png  script           SX1.h
+donneesCimagref    GR4J.d   initSw    MS21.h  out.log      PR.h    Q1.h          QR.h  result      script.sh        tanhES.h
+Donnes_Benin_2006  GR4J.d~  INTERC.h  MS22.h  pgMatlab.m   PS1.h   Q1QF.h        QS.h  RQ9F.h      script_test.sh   tanhPS.h
+ENX1.h             GR4J.h   J.dat     MS23.h  plot_mat.m   PS2.h   Q9 (copie).h  R1.h  RX32.h      script_YREAL.sh  Yworkdir
+F.h                GR4J.i   Jxo.dat   MS24.h  plot_mat.m~  PS3.h   Q9.h          R2.h  RX3.h       sensibilite
+adonis{nylod}854: yao92 -cadna GR4J
+ > MACHINE TYPE determined now !.. <linux>.
+OPTION CADNA ACTIVATIED!
+ > MQNDIR directory variable not declared...standard directory.
+
+       ====================================================================
+              yao92 V.9.2.99 : PROJECT CREATION PROCEDURE                   
+              r2011.07.27                         
+       ====================================================================
+        LOCAL MACHINE BINARY TYPE FOUND ..... <linux>                      
+       ====================================================================
+
+ > Run of yao92 for project : GR4J
+ > HEADERS generation not required: 
+ >   the description file has not changed from the last generation of Y1GR4J.h and Y2GR4J.h.
+ >   Pay attention all the warning showed in the generation process are not been displayed this way because of the non regeneration.
+ >   If you want to force the regeneration remove the Yworkdir/ directory.
+cp: cannot stat `./Yworkdir/Trajectory*.hpp': No such file or directory
+cp: cannot stat `./Yworkdir/Project*.hpp': No such file or directory
+ > enter proc construction 
+ > end proc construction 
+ > start compilation 
+g++ -DYO_CADNA    -Wall -DLINUXPC -Wno-deprecated -Wno-write-strings -I/usr/home/jbrlod/these/prog/yao9_pei/yao/include -I/usr/home/jbrlod/these/prog/cadna/include/ -g -O0  -m64 -I/usr/include   -c Ymain_GR4J.cpp YGR4J.cpp
+In file included from YGR4J.cpp:1541:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h: In function ‘void Yobs_disp(Yst_obs*)’:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h:101: error: ‘strp’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h: In function ‘void Yiorwf(char*, int, int, int, int, int, TypReal*, TypReal)’:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h:643: error: ‘float_st’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h: In function ‘int Yio_load(YioKind, char*, char*, int, char*)’:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h:1558: error: ‘float_st’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h:1619: error: ‘float_st’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h: In function ‘double Ycostdiff(double, double)’:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h:1886: error: ‘double_st’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h:1886: error: expected ‘;’ before ‘gradient’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h:1893: error: ‘gradient’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h:1897: error: ‘gradient’ was not declared in this scope
+In file included from YGR4J.cpp:1541:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h: In function ‘void Yprintobs(int, char*, int, int, int, int, int, int, double*, double*)’:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h:2473: error: ‘strp’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h:2475: error: ‘strp’ was not declared in this scope
+In file included from YGR4J.cpp:2203:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h: At global scope:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:59: error: ‘double_st’ does not name a type
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:67: error: ‘double_st’ does not name a type
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:68: error: ‘double_st’ does not name a type
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:75: error: ‘double_st’ does not name a type
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:88: error: ‘float_st’ does not name a type
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:89: error: ‘double_st’ does not name a type
+In file included from YGR4J.cpp:2203:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:162: error: ‘double_st’ has not been declared
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:162: error: ‘double_st’ has not been declared
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:162: error: ‘double_st’ has not been declared
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:163: error: ‘float_st’ has not been declared
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:163: error: ‘double_st’ has not been declared
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h: In function ‘void Y3simul(int*, long int*, int*, int*, int*, long int*, int*, int*)’:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:173: error: cannot convert ‘int*’ to ‘float*’ for argument ‘1’ to ‘void Y3getstate_all(float*)’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:181: error: ‘float_st’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:181: error: expected ‘;’ before ‘YTotalCost’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:186: error: cannot convert ‘int*’ to ‘float*’ for argument ‘1’ to ‘void Y3valgrad_all(float*)’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h: In function ‘int Y3run(char)’:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:195: error: ‘double_st’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:195: error: expected ‘;’ before ‘sv_epsg’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:196: error: expected ‘;’ before ‘dxmin’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:226: error: ‘sv_epsg’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:226: error: ‘Y3epsg’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:244: error: ‘Y3f’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:244: error: ‘float_st’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:244: error: expected ‘;’ before ‘YTotalCost’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:259: error: ‘Y3df1’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:259: error: ‘Y3ddf1’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:261: error: ‘dxmin’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:285: error: ‘euclid_’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:285: error: ‘ctonbe_’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:285: error: ‘ctcabe_’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:287: error: ‘Y3rzs’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:287: error: ‘Y3dzs’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h: At global scope:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:361: error: ‘double_st’ has not been declared
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:361: error: ‘double_st’ has not been declared
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:361: error: ‘double_st’ has not been declared
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:362: error: ‘float_st’ has not been declared
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:362: error: ‘double_st’ has not been declared
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h: In function ‘void Yc3_simul(int*, long int*, int*, int*, int*, long int*, int*, int*)’:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:372: error: cannot convert ‘int*’ to ‘float*’ for argument ‘1’ to ‘void Y3getdelta_all(float*)’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:386: error: cannot convert ‘int*’ to ‘float*’ for argument ‘1’ to ‘void Y3valgrad_all(float*)’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h: In function ‘int Yc3_run(char)’:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:396: error: ‘double_st’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:396: error: expected ‘;’ before ‘sv_epsg’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:397: error: expected ‘;’ before ‘dxmin’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:444: error: ‘sv_epsg’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:444: error: ‘Y3epsg’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:522: error: ‘Y3f’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:522: error: ‘float_st’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:522: error: expected ‘;’ before ‘YTotalCost’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:537: error: ‘Y3df1’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:537: error: ‘Y3ddf1’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:539: error: ‘dxmin’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:563: error: ‘euclid_’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:563: error: ‘ctonbe_’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:563: error: ‘ctcabe_’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:565: error: ‘Y3rzs’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:565: error: ‘Y3dzs’ was not declared in this scope
+In file included from YGR4J.cpp:2209:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyntst.h: At global scope:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyntst.h:8: error: variable or field ‘Ytestad_mod’ declared void
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyntst.h:8: error: ‘double_st’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyntst.h:8: error: ‘double_st’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyntst.h:8: error: expected primary-expression before ‘int’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyntst.h:8: error: ‘double_st’ was not declared in this scope
+In file included from YGR4J.cpp:1541:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h: In function ‘void Yiorwf(char*, int, int, int, int, int, TypReal*, TypReal) [with TypReal = double]’:
+Y2GR4J.h:156:   instantiated from here
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h:644: error: ‘strp’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h:646: error: ‘strp’ was not declared in this scope
+ > end of compilation, start linking 
+g++  -DYO_CADNA    -Wall -DLINUXPC -Wno-deprecated -Wno-write-strings -I/usr/home/jbrlod/these/prog/yao9_pei/yao/include -I/usr/home/jbrlod/these/prog/cadna/include/ -g -O0  -m64 -I/usr/include  /usr/home/jbrlod/these/prog/cadna/lib/libcadnaC.a /usr/home/jbrlod/these/prog/cadna/lib/libcadnaF.a -o GR4J Ymain_GR4J.o YGR4J.o  -L/usr/home/jbrlod/these/prog/cadna/lib -lcadnaC  -L/usr/home/jbrlod/these/prog/yao9_pei/yao/share/m1qn3//bin -lmqnC   -lm -lgfortran -L/usr/lib64 -lnetcdf  -L/usr/home/jbrlod/these/prog/cadna/lib -lcadnaF -g -m64 -lstdc++ -lm
+g++: YGR4J.o: No such file or directory
+
+ > unpredictable mistakes : PROJECT BUILDING FAILED
+
+New structure
+adonis{nylod}855: ls /usr/home/jbrlod/these/prog/cadna/include/
+cadna_add.mod     cadna_convert.mod  cadna_equ.mod  cadna_gt.mod  cadna_intr.mod  cadna_lt.mod    cadna.mod      cadna_str.mod  cadna_to.mod
+cadna_cestac.mod  cadna_div.mod      cadna_ge.mod   cadna.h       cadna_le.mod    cadna_math.mod  cadna_mul.mod  cadna_sub.mod  cadna_type.mod
+adonis{nylod}856: ls /usr/home/jbrlod/these/prog/cadna/include/cad
+cadna_add.mod      cadna_div.mod      cadna_gt.mod       cadna_le.mod       cadna.mod          cadna_sub.mod      
+cadna_cestac.mod   cadna_equ.mod      cadna.h            cadna_lt.mod       cadna_mul.mod      cadna_to.mod       
+cadna_convert.mod  cadna_ge.mod       cadna_intr.mod     cadna_math.mod     cadna_str.mod      cadna_type.mod     
+adonis{nylod}856: more /usr/home/jbrlod/these/prog/cadna/include/cadna.h
+
+#ifndef __CADNA__
+#define __CADNA__
+
+
+#include <iostream>
+#include <cmath>
+#include <complex>
+
+#define CADNA_DIV       0x1
+#define CADNA_MUL       0x2
+#define CADNA_POWER     0x4
+#define CADNA_MATH      0x8
+#define CADNA_BRANCHING 0x10
+#define CADNA_INTRINSIC 0x20
+#define CADNA_CANCEL    0x40
+#define CADNA_ALL       0xFFFFFFFF
+
+using namespace std;
+
+class float_st;
+
+class double_st 
+{  
+  friend class float_st;
+
+protected:
+  double x,y,z;
+  
+  typedef double TYPEBASE;
+  
+private:
+  mutable int accuracy;
+  int pad;
+
+public:
+
+  inline double_st(void) :x(0),y(0),z(0),accuracy(15) {};
+  inline double_st(double a, double b, double c):x(a),y(b),z(c),accuracy(-1) {};
+  inline double_st(const double &a): x(a),y(a),z(a),accuracy(15) {};
+
+  inline double_st (const float_st&);
+
+  double getx() {return(this->x);};
+  double gety() {return(this->y);};
+  double getz() {return(this->z);};
+
+
+  //complex
+//1)mulplication
+  friend complex<double_st> operator*(double const&,complex<double_st> const&);
+  friend complex<double_st> operator*(complex<double_st> const&,double const&);
+  friend complex<float_st> operator*( float const&,complex<float_st> const&);
+  friend complex<float_st> operator*( complex<float_st> const&,float const&);
+//2)division
+  friend complex<double_st> operator/(double const&,complex<double_st> const&);
+  friend complex<double_st> operator/(complex<double_st> const&,double const&);
+  friend complex<float_st> operator/( float const&,complex<float_st> const&);
+  friend complex<float_st> operator/( complex<float_st> const&,float const&);
+//3)addition
+  friend complex<double_st> operator+(double const&,complex<double_st> const&);
+  friend complex<double_st> operator+(complex<double_st> const&,double const&);
+  friend complex<float_st> operator+( float const&,complex<float_st> const&);
+  friend complex<float_st> operator+( complex<float_st> const&,float const&);
+//4)SUBTRACTION
+  friend complex<double_st> operator-(double const&,complex<double_st> const&);
+  friend complex<double_st> operator-(complex<double_st> const&,double const&);
+  friend complex<float_st> operator-( float const&,complex<float_st> const&);
+  friend complex<float_st> operator-( complex<float_st> const&,float const&);
+
+  // ASSIGNMENT
+  
+  double_st& operator=(const double&);
+  double_st& operator=(const float&);
+  double_st& operator=(const unsigned long long&);
+  double_st& operator=(const long long&);
+  double_st& operator=(const unsigned long&);
+  double_st& operator=(const long&);
+  double_st& operator=(const unsigned int&);
+  double_st& operator=(const int&);
+  double_st& operator=(const unsigned short&);
+  double_st& operator=(const short&);
+  double_st& operator=(const unsigned char&);
+  double_st& operator=(const char&);
+
+  double_st& operator=(const float_st&);
+
+
+  // ADDITION
+  double_st operator++();
+  double_st operator++(int);
+  double_st operator+() const ; 
+
+  double_st& operator+=(const double_st&);
+  double_st& operator+=(const float_st&);
+  double_st& operator+=(const double&);
+  double_st& operator+=(const float&);
+  double_st& operator+=(const unsigned long long&);
+  double_st& operator+=(const long long&);
+  double_st& operator+=(const unsigned long&);
+  double_st& operator+=(const long&);
+  double_st& operator+=(const unsigned int&);
+  double_st& operator+=(const int&);
+  double_st& operator+=(const unsigned short&);
+  double_st& operator+=(const short&);
+  double_st& operator+=(const unsigned char&);
+  double_st& operator+=(const char&);
+
+
+  friend double_st operator+(const double_st&, const double_st&);  
+  friend double_st operator+(const double_st&, const float_st&);  
+  friend double_st operator+(const float_st&,  const double_st&);
+  
+  friend double_st operator+(const double_st&, const double&);
+  friend double_st operator+(const double_st&, const float&);
+  friend double_st operator+(const double_st&, const unsigned long long&);
+  friend double_st operator+(const double_st&, const long long&);
+  friend double_st operator+(const double_st&, const unsigned long&);
+  friend double_st operator+(const double_st&, const long&);
+  friend double_st operator+(const double_st&, const unsigned int&);
+  friend double_st operator+(const double_st&, const int&);
+  friend double_st operator+(const double_st&, const unsigned short&);
+  friend double_st operator+(const double_st&, const short&);
+  friend double_st operator+(const double_st&, const unsigned char&);
+  friend double_st operator+(const double_st&, const char&);
+
+  friend double_st operator+(const double&, const double_st&);
+  friend double_st operator+(const float&, const double_st&);
+  friend double_st operator+(const unsigned long long&, const double_st&);
+  friend double_st operator+(const long long&, const double_st&);
+  friend double_st operator+(const unsigned long&, const double_st&);
+  friend double_st operator+(const long&, const double_st&);
+  friend double_st operator+(const unsigned int&, const double_st&);
+  friend double_st operator+(const int&, const double_st&);
+  friend double_st operator+(const unsigned short&, const double_st&);
+  friend double_st operator+(const short&, const double_st&);
+  friend double_st operator+(const unsigned char&, const double_st&);
+  friend double_st operator+(const char&, const double_st&);
+
+
+      
+  // SUBTRACTION
+  double_st operator--();
+  double_st operator--(int);
+  double_st operator-() const ; 
+
+  double_st& operator-=(const double_st&);
+  double_st& operator-=(const float_st&);
+  double_st& operator-=(const double&);
+  double_st& operator-=(const float&);
+  double_st& operator-=(const unsigned long long&);
+  double_st& operator-=(const long long&);
+  double_st& operator-=(const unsigned long&);
+  double_st& operator-=(const long&);
+  double_st& operator-=(const unsigned int&);
+  double_st& operator-=(const int&);
+  double_st& operator-=(const unsigned short&);
+  double_st& operator-=(const short&);
+  double_st& operator-=(const unsigned char&);
+  double_st& operator-=(const char&);
+
+
+  friend double_st operator-(const double_st&, const double_st&);  
+  friend double_st operator-(const double_st&, const float_st&);  
+  friend double_st operator-(const float_st&, const double_st&);  
+  friend double_st operator-(const double_st&, const double&);
+  friend double_st operator-(const double_st&, const float&);
+  friend double_st operator-(const double_st&, const unsigned long long&);
+  friend double_st operator-(const double_st&, const long long&);
+  friend double_st operator-(const double_st&, const unsigned long&);
+  friend double_st operator-(const double_st&, const long&);
+  friend double_st operator-(const double_st&, const unsigned int&);
+  friend double_st operator-(const double_st&, const int&);
+  friend double_st operator-(const double_st&, const unsigned short&);
+  friend double_st operator-(const double_st&, const short&);
+  friend double_st operator-(const double_st&, const unsigned char&);
+  friend double_st operator-(const double_st&, const char&);
+
+  friend double_st operator-(const double&, const double_st&);
+  friend double_st operator-(const float&, const double_st&);
+  friend double_st operator-(const unsigned long long&, const double_st&);
+  friend double_st operator-(const long long&, const double_st&);
+  friend double_st operator-(const unsigned long&, const double_st&);
+  friend double_st operator-(const long&, const double_st&);
+  friend double_st operator-(const unsigned int&, const double_st&);
+  friend double_st operator-(const int&, const double_st&);
+  friend double_st operator-(const unsigned short&, const double_st&);
+  friend double_st operator-(const short&, const double_st&);
+  friend double_st operator-(const unsigned char&, const double_st&);
+  friend double_st operator-(const char&, const double_st&);
+
+  // MULTIPLICATION
+
+  double_st& operator*=(const double_st&);
+  double_st& operator*=(const float_st&);
+  double_st& operator*=(const double&);
+  double_st& operator*=(const float&);
+  double_st& operator*=(const unsigned long long&);
+  double_st& operator*=(const long long&);
+  double_st& operator*=(const unsigned long&);
+  double_st& operator*=(const long&);
+  double_st& operator*=(const unsigned int&);
+  double_st& operator*=(const int&);
+  double_st& operator*=(const unsigned short&);
+  double_st& operator*=(const short&);
+  double_st& operator*=(const unsigned char&);
+  double_st& operator*=(const char&);
+
+
+  friend double_st operator*(const double_st&, const double_st&);  
+  friend double_st operator*(const double_st&, const float_st&);  
+  friend double_st operator*(const float_st&, const double_st&);  
+
+  friend double_st operator*(const double_st&, const double&);
+  friend double_st operator*(const double_st&, const float&);
+  friend double_st operator*(const double_st&, const unsigned long long&);
+  friend double_st operator*(const double_st&, const long long&);
+  friend double_st operator*(const double_st&, const unsigned long&);
+  friend double_st operator*(const double_st&, const long&);
+  friend double_st operator*(const double_st&, const unsigned int&);
+  friend double_st operator*(const double_st&, const int&);
+  friend double_st operator*(const double_st&, const unsigned short&);
+  friend double_st operator*(const double_st&, const short&);
+  friend double_st operator*(const double_st&, const unsigned char&);
+  friend double_st operator*(const double_st&, const char&);
+
+  friend double_st operator*(const double&, const double_st&);
+  friend double_st operator*(const float&, const double_st&);
+  friend double_st operator*(const unsigned long long&, const double_st&);
+  friend double_st operator*(const long long&, const double_st&);
+  friend double_st operator*(const unsigned long&, const double_st&);
+  friend double_st operator*(const long&, const double_st&);
+  friend double_st operator*(const unsigned int&, const double_st&);
+  friend double_st operator*(const int&, const double_st&);
+  friend double_st operator*(const unsigned short&, const double_st&);
+  friend double_st operator*(const short&, const double_st&);
+  friend double_st operator*(const unsigned char&, const double_st&);
+  friend double_st operator*(const char&, const double_st&);
+
+  // DIVISION
+
+  double_st& operator/=(const double_st&);
+  double_st& operator/=(const float_st&);
+  double_st& operator/=(const double&);
+  double_st& operator/=(const float&);
+  double_st& operator/=(const unsigned long long&);
+  double_st& operator/=(const long long&);
+  double_st& operator/=(const unsigned long&);
+  double_st& operator/=(const long&);
+  double_st& operator/=(const unsigned int&);
+  double_st& operator/=(const int&);
+  double_st& operator/=(const unsigned short&);
+  double_st& operator/=(const short&);
+  double_st& operator/=(const unsigned char&);
+  double_st& operator/=(const char&);
+
+
+  friend double_st operator/(const double_st&, const double_st&);  
+  friend double_st operator/(const double_st&, const float_st&);  
+  friend double_st operator/(const float_st&, const double_st&);  
+  friend double_st operator/(const double_st&, const double&);
+  friend double_st operator/(const double_st&, const float&);
+  friend double_st operator/(const double_st&, const unsigned long long&);
+  friend double_st operator/(const double_st&, const long long&);
+  friend double_st operator/(const double_st&, const unsigned long&);
+  friend double_st operator/(const double_st&, const long&);
+  friend double_st operator/(const double_st&, const unsigned int&);
+  friend double_st operator/(const double_st&, const int&);
+  friend double_st operator/(const double_st&, const unsigned short&);
+  friend double_st operator/(const double_st&, const short&);
+  friend double_st operator/(const double_st&, const unsigned char&);
+  friend double_st operator/(const double_st&, const char&);
+
+  friend double_st operator/(const double&, const double_st&);
+  friend double_st operator/(const float&, const double_st&);
+  friend double_st operator/(const unsigned long long&, const double_st&);
+  friend double_st operator/(const long long&, const double_st&);
+  friend double_st operator/(const unsigned long&, const double_st&);
+  friend double_st operator/(const long&, const double_st&);
+  friend double_st operator/(const unsigned int&, const double_st&);
+  friend double_st operator/(const int&, const double_st&);
+  friend double_st operator/(const unsigned short&, const double_st&);
+  friend double_st operator/(const short&, const double_st&);
+  friend double_st operator/(const unsigned char&, const double_st&);
+  friend double_st operator/(const char&, const double_st&);
+  
+  
+  // RELATIONAL OPERATORS
+
+  friend int operator==(const double_st&, const double_st&);  
+  friend int operator==(const double_st&, const float_st&);  
+  friend int operator==(const float_st&, const double_st&);  
+
+  friend int operator==(const double_st&, const double&);
+  friend int operator==(const double_st&, const float&);
+  friend int operator==(const double_st&, const unsigned long long&);
+  friend int operator==(const double_st&, const long long&);
+  friend int operator==(const double_st&, const unsigned long&);
+  friend int operator==(const double_st&, const long&);
+  friend int operator==(const double_st&, const unsigned int&);
+  friend int operator==(const double_st&, const int&);
+  friend int operator==(const double_st&, const unsigned short&);
+  friend int operator==(const double_st&, const short&);
+  friend int operator==(const double_st&, const unsigned char&);
+  friend int operator==(const double_st&, const char&);
+
+  friend int operator==(const double&, const double_st&);
+  friend int operator==(const float&, const double_st&);
+  friend int operator==(const unsigned long long&, const double_st&);
+  friend int operator==(const long long&, const double_st&);
+  friend int operator==(const unsigned long&, const double_st&);
+  friend int operator==(const long&, const double_st&);
+adonis{nylod}857: ls
+donneesBenin       GR4J     GR4J.i~   MS1.h   MS3.h        PNX1.h  Q1 (copie).h  QD.h  residu.png  script           SX1.h
+donneesCimagref    GR4J.d   initSw    MS21.h  out.log      PR.h    Q1.h          QR.h  result      script.sh        tanhES.h
+Donnes_Benin_2006  GR4J.d~  INTERC.h  MS22.h  pgMatlab.m   PS1.h   Q1QF.h        QS.h  RQ9F.h      script_test.sh   tanhPS.h
+ENX1.h             GR4J.h   J.dat     MS23.h  plot_mat.m   PS2.h   Q9 (copie).h  R1.h  RX32.h      script_YREAL.sh  Yworkdir
+F.h                GR4J.i   Jxo.dat   MS24.h  plot_mat.m~  PS3.h   Q9.h          R2.h  RX3.h       sensibilite
+adonis{nylod}858: yao92 -cadna GR4J
+ > MACHINE TYPE determined now !.. <linux>.
+OPTION CADNA ACTIVATIED!
+ > MQNDIR directory variable not declared...standard directory.
+
+       ====================================================================
+              yao92 V.9.2.99 : PROJECT CREATION PROCEDURE                   
+              r2011.07.27                         
+       ====================================================================
+        LOCAL MACHINE BINARY TYPE FOUND ..... <linux>                      
+       ====================================================================
+
+ > Run of yao92 for project : GR4J
+ > HEADERS generation not required: 
+ >   the description file has not changed from the last generation of Y1GR4J.h and Y2GR4J.h.
+ >   Pay attention all the warning showed in the generation process are not been displayed this way because of the non regeneration.
+ >   If you want to force the regeneration remove the Yworkdir/ directory.
+cp: cannot stat `./Yworkdir/Trajectory*.hpp': No such file or directory
+cp: cannot stat `./Yworkdir/Project*.hpp': No such file or directory
+ > enter proc construction 
+ > end proc construction 
+ > start compilation 
+g++ -DYO_CADNA    -Wall -DLINUXPC -Wno-deprecated -Wno-write-strings -I/usr/home/jbrlod/these/prog/yao9_pei/yao/include -I/usr/home/jbrlod/these/prog/cadna/include/ -g -O0  -m64 -I/usr/include   -c Ymain_GR4J.cpp YGR4J.cpp
+In file included from YGR4J.cpp:1541:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h: In function ‘void Yobs_disp(Yst_obs*)’:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h:101: error: ‘strp’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h: In function ‘void Yiorwf(char*, int, int, int, int, int, TypReal*, TypReal)’:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h:643: error: ‘float_st’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h: In function ‘int Yio_load(YioKind, char*, char*, int, char*)’:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h:1558: error: ‘float_st’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h:1619: error: ‘float_st’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h: In function ‘double Ycostdiff(double, double)’:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h:1886: error: ‘double_st’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h:1886: error: expected ‘;’ before ‘gradient’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h:1893: error: ‘gradient’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h:1897: error: ‘gradient’ was not declared in this scope
+In file included from YGR4J.cpp:1541:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h: In function ‘void Yprintobs(int, char*, int, int, int, int, int, int, double*, double*)’:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h:2473: error: ‘strp’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h:2475: error: ‘strp’ was not declared in this scope
+In file included from YGR4J.cpp:2203:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h: At global scope:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:59: error: ‘double_st’ does not name a type
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:67: error: ‘double_st’ does not name a type
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:68: error: ‘double_st’ does not name a type
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:75: error: ‘double_st’ does not name a type
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:88: error: ‘float_st’ does not name a type
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:89: error: ‘double_st’ does not name a type
+In file included from YGR4J.cpp:2203:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:162: error: ‘double_st’ has not been declared
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:162: error: ‘double_st’ has not been declared
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:162: error: ‘double_st’ has not been declared
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:163: error: ‘float_st’ has not been declared
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:163: error: ‘double_st’ has not been declared
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h: In function ‘void Y3simul(int*, long int*, int*, int*, int*, long int*, int*, int*)’:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:173: error: cannot convert ‘int*’ to ‘float*’ for argument ‘1’ to ‘void Y3getstate_all(float*)’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:181: error: ‘float_st’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:181: error: expected ‘;’ before ‘YTotalCost’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:186: error: cannot convert ‘int*’ to ‘float*’ for argument ‘1’ to ‘void Y3valgrad_all(float*)’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h: In function ‘int Y3run(char)’:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:195: error: ‘double_st’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:195: error: expected ‘;’ before ‘sv_epsg’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:196: error: expected ‘;’ before ‘dxmin’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:226: error: ‘sv_epsg’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:226: error: ‘Y3epsg’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:244: error: ‘Y3f’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:244: error: ‘float_st’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:244: error: expected ‘;’ before ‘YTotalCost’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:259: error: ‘Y3df1’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:259: error: ‘Y3ddf1’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:261: error: ‘dxmin’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:285: error: ‘euclid_’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:285: error: ‘ctonbe_’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:285: error: ‘ctcabe_’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:287: error: ‘Y3rzs’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:287: error: ‘Y3dzs’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h: At global scope:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:361: error: ‘double_st’ has not been declared
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:361: error: ‘double_st’ has not been declared
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:361: error: ‘double_st’ has not been declared
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:362: error: ‘float_st’ has not been declared
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:362: error: ‘double_st’ has not been declared
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h: In function ‘void Yc3_simul(int*, long int*, int*, int*, int*, long int*, int*, int*)’:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:372: error: cannot convert ‘int*’ to ‘float*’ for argument ‘1’ to ‘void Y3getdelta_all(float*)’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:386: error: cannot convert ‘int*’ to ‘float*’ for argument ‘1’ to ‘void Y3valgrad_all(float*)’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h: In function ‘int Yc3_run(char)’:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:396: error: ‘double_st’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:396: error: expected ‘;’ before ‘sv_epsg’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:397: error: expected ‘;’ before ‘dxmin’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:444: error: ‘sv_epsg’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:444: error: ‘Y3epsg’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:522: error: ‘Y3f’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:522: error: ‘float_st’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:522: error: expected ‘;’ before ‘YTotalCost’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:537: error: ‘Y3df1’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:537: error: ‘Y3ddf1’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:539: error: ‘dxmin’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:563: error: ‘euclid_’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:563: error: ‘ctonbe_’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:563: error: ‘ctcabe_’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:565: error: ‘Y3rzs’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dynmqn.h:565: error: ‘Y3dzs’ was not declared in this scope
+In file included from YGR4J.cpp:2209:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyntst.h: At global scope:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyntst.h:8: error: variable or field ‘Ytestad_mod’ declared void
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyntst.h:8: error: ‘double_st’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyntst.h:8: error: ‘double_st’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyntst.h:8: error: expected primary-expression before ‘int’
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyntst.h:8: error: ‘double_st’ was not declared in this scope
+In file included from YGR4J.cpp:1541:
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h: In function ‘void Yiorwf(char*, int, int, int, int, int, TypReal*, TypReal) [with TypReal = double]’:
+Y2GR4J.h:156:   instantiated from here
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h:644: error: ‘strp’ was not declared in this scope
+/usr/home/jbrlod/these/prog/yao9_pei/yao/include/Dyniob.h:646: error: ‘strp’ was not declared in this scope
+ > end of compilation, start linking 
+g++  -DYO_CADNA    -Wall -DLINUXPC -Wno-deprecated -Wno-write-strings -I/usr/home/jbrlod/these/prog/yao9_pei/yao/include -I/usr/home/jbrlod/these/prog/cadna/include/ -g -O0  -m64 -I/usr/include  /usr/home/jbrlod/these/prog/cadna/lib/libcadnaC.a /usr/home/jbrlod/these/prog/cadna/lib/libcadnaF.a -o GR4J Ymain_GR4J.o YGR4J.o  -L/usr/home/jbrlod/these/prog/cadna/lib -lcadnaC  -L/usr/home/jbrlod/these/prog/yao9_pei/yao/share/m1qn3//bin -lmqnC   -lm -lgfortran -L/usr/lib64 -lnetcdf  -L/usr/home/jbrlod/these/prog/cadna/lib -lcadnaF -g -m64 -lstdc++ -lm
+g++: YGR4J.o: No such file or directory
+
+ > unpredictable mistakes : PROJECT BUILDING FAILED
+
+New structure
+adonis{nylod}859: touch GR4
+GR4J     GR4J.d   GR4J.d~  GR4J.h   GR4J.i   GR4J.i~  
+adonis{nylod}859: touch GR4J.d
+GR4J.d   GR4J.d~  
+adonis{nylod}859: touch GR4J.d&^C
+adonis{nylod}859: yao92 -cadna GR4J
+ > MACHINE TYPE determined now !.. <linux>.
+OPTION CADNA ACTIVATIED!
+ > MQNDIR directory variable not declared...standard directory.
+
+       ====================================================================
+              yao92 V.9.2.99 : PROJECT CREATION PROCEDURE                   
+              r2011.07.27                         
+       ====================================================================
+        LOCAL MACHINE BINARY TYPE FOUND ..... <linux>                      
+       ====================================================================
+
+ > Run of yao92 for project : GR4J
+ > enter proc generation 
+ > Y1GR4J.h moved as \~
+ > Y2GR4J.h moved as \~
+ > YGR4J.cpp moved as \~
+ > Ymain_GR4J.cpp moved as \~
+ > YGR4J.o moved as \~
+ > Ymain_GR4J.o moved as \~
+ > GR4J moved as \~
+GR4J
+
+New structure activated. Warning: use of '#' for comments is deprecated, use C notation '//'
+
+Context generation OKNew structure generation > execution time of the Yao code generator...1 second(s)
+ > headers are now created
+ > end proc generation 
+ > enter proc construction 
+ > end proc construction 
+ > start compilation 
+g++ -DYO_CADNA    -Wall -DLINUXPC -Wno-deprecated -Wno-write-strings -I/usr/home/jbrlod/these/prog/yao9_pei/yao/include -I/usr/home/jbrlod/these/prog/cadna/include/ -g -O0  -m64 -I/usr/include   -c Ymain_GR4J.cpp YGR4J.cpp
+In file included from YGR4J.cpp:777:
+Y1GR4J.h:16:1: warning: "YO_CADNA" redefined
+<command-line>: warning: this is the location of the previous definition
+In file included from Y1GR4J.h:1807,
+                 from YGR4J.cpp:777:
+GR4J.h: In function ‘void xdisplay()’:
+GR4J.h:81: warning: cannot pass objects of non-POD type ‘class double_st’ through ‘...’; call will abort at runtime
+GR4J.h:81: warning: format ‘% -16.8e’ expects type ‘double’, but argument 2 has type ‘int’
+GR4J.h:82: warning: cannot pass objects of non-POD type ‘class double_st’ through ‘...’; call will abort at runtime
+GR4J.h:82: warning: format ‘% -16.8e’ expects type ‘double’, but argument 2 has type ‘int’
+GR4J.h:83: warning: cannot pass objects of non-POD type ‘class double_st’ through ‘...’; call will abort at runtime
+GR4J.h:83: warning: format ‘% -16.8e’ expects type ‘double’, but argument 2 has type ‘int’
+GR4J.h:84: warning: cannot pass objects of non-POD type ‘class double_st’ through ‘...’; call will abort at runtime
+GR4J.h:84: warning: format ‘% -16.8e’ expects type ‘double’, but argument 2 has type ‘int’
+GR4J.h:85: warning: cannot pass objects of non-POD type ‘class double_st’ through ‘...’; call will abort at runtime
+GR4J.h:85: warning: format ‘% -16.8e’ expects type ‘double’, but argument 2 has type ‘int’
+GR4J.h:86: warning: cannot pass objects of non-POD type ‘class double_st’ through ‘...’; call will abort at runtime
+GR4J.h:86: warning: format ‘% -16.8e’ expects type ‘double’, but argument 2 has type ‘int’
+In file included from Y1GR4J.h:2189,
+                 from YGR4J.cpp:777:
+QD.h: In member function ‘void QD::forward(double_st)’:
+QD.h:7: error: operands to ?: have different types ‘double_st’ and ‘int’
+ > end of compilation, start linking 
+g++  -DYO_CADNA    -Wall -DLINUXPC -Wno-deprecated -Wno-write-strings -I/usr/home/jbrlod/these/prog/yao9_pei/yao/include -I/usr/home/jbrlod/these/prog/cadna/include/ -g -O0  -m64 -I/usr/include  /usr/home/jbrlod/these/prog/cadna/lib/libcadnaC.a /usr/home/jbrlod/these/prog/cadna/lib/libcadnaF.a -o GR4J Ymain_GR4J.o YGR4J.o  -L/usr/home/jbrlod/these/prog/cadna/lib -lcadnaC  -L/usr/home/jbrlod/these/prog/yao9_pei/yao/share/m1qn3//bin -lmqnC   -lm -lgfortran -L/usr/lib64 -lnetcdf  -L/usr/home/jbrlod/these/prog/cadna/lib -lcadnaF -g -m64 -lstdc++ -lm
+g++: YGR4J.o: No such file or directory
+
+ > unpredictable mistakes : PROJECT BUILDING FAILED
+
+New structure
+adonis{nylod}859: ./GR4J 
+bash: ./GR4J: No such file or directory
+adonis{nylod}860: yao92 -cadna GR4J
+ > MACHINE TYPE determined now !.. <linux>.
+OPTION CADNA ACTIVATIED!
+ > MQNDIR directory variable not declared...standard directory.
+
+       ====================================================================
+              yao92 V.9.2.99 : PROJECT CREATION PROCEDURE                   
+              r2011.07.27                         
+       ====================================================================
+        LOCAL MACHINE BINARY TYPE FOUND ..... <linux>                      
+       ====================================================================
+
+ > Run of yao92 for project : GR4J
+ > HEADERS generation not required: 
+ >   the description file has not changed from the last generation of Y1GR4J.h and Y2GR4J.h.
+ >   Pay attention all the warning showed in the generation process are not been displayed this way because of the non regeneration.
+ >   If you want to force the regeneration remove the Yworkdir/ directory.
+ > enter proc construction 
+ > end proc construction 
+ > start compilation 
+g++ -DYO_CADNA    -Wall -DLINUXPC -Wno-deprecated -Wno-write-strings -I/usr/home/jbrlod/these/prog/yao9_pei/yao/include -I/usr/home/jbrlod/these/prog/cadna/include/ -g -O0  -m64 -I/usr/include   -c Ymain_GR4J.cpp YGR4J.cpp
+In file included from YGR4J.cpp:777:
+Y1GR4J.h:16:1: warning: "YO_CADNA" redefined
+<command-line>: warning: this is the location of the previous definition
+In file included from Y1GR4J.h:1807,
+                 from YGR4J.cpp:777:
+GR4J.h: In function ‘void xdisplay()’:
+GR4J.h:81: warning: cannot pass objects of non-POD type ‘class double_st’ through ‘...’; call will abort at runtime
+GR4J.h:81: warning: format ‘% -16.8e’ expects type ‘double’, but argument 2 has type ‘int’
+GR4J.h:82: warning: cannot pass objects of non-POD type ‘class double_st’ through ‘...’; call will abort at runtime
+GR4J.h:82: warning: format ‘% -16.8e’ expects type ‘double’, but argument 2 has type ‘int’
+GR4J.h:83: warning: cannot pass objects of non-POD type ‘class double_st’ through ‘...’; call will abort at runtime
+GR4J.h:83: warning: format ‘% -16.8e’ expects type ‘double’, but argument 2 has type ‘int’
+GR4J.h:84: warning: cannot pass objects of non-POD type ‘class double_st’ through ‘...’; call will abort at runtime
+GR4J.h:84: warning: format ‘% -16.8e’ expects type ‘double’, but argument 2 has type ‘int’
+GR4J.h:85: warning: cannot pass objects of non-POD type ‘class double_st’ through ‘...’; call will abort at runtime
+GR4J.h:85: warning: format ‘% -16.8e’ expects type ‘double’, but argument 2 has type ‘int’
+GR4J.h:86: warning: cannot pass objects of non-POD type ‘class double_st’ through ‘...’; call will abort at runtime
+GR4J.h:86: warning: format ‘% -16.8e’ expects type ‘double’, but argument 2 has type ‘int’
+ > end of compilation, start linking 
+g++  -DYO_CADNA    -Wall -DLINUXPC -Wno-deprecated -Wno-write-strings -I/usr/home/jbrlod/these/prog/yao9_pei/yao/include -I/usr/home/jbrlod/these/prog/cadna/include/ -g -O0  -m64 -I/usr/include  /usr/home/jbrlod/these/prog/cadna/lib/libcadnaC.a /usr/home/jbrlod/these/prog/cadna/lib/libcadnaF.a -o GR4J Ymain_GR4J.o YGR4J.o  -L/usr/home/jbrlod/these/prog/cadna/lib -lcadnaC  -L/usr/home/jbrlod/these/prog/yao9_pei/yao/share/m1qn3//bin -lmqnC   -lm -lgfortran -L/usr/lib64 -lnetcdf  -L/usr/home/jbrlod/these/prog/cadna/lib -lcadnaF -g -m64 -lstdc++ -lm
+
+       =======================  PROJECT IS NOW READY  =====================
+                           yao92 v9.2.99 : END OF PROCEDURE                     
+                           r2011.07.27                 
+       ====================================================================
+                           TOTAL COMPILATION TIME : 10 second(s)            
+       ====================================================================
+
+New structure
+adonis{nylod}861: ./GR4J 
+----------------------------------------------------------------
+CADNA_C 1.1.6 software --- University P. et M. Curie --- LIP6
+Self-validation detection: ON
+Mathematical instabilities detection: OFF
+Branching instabilities detection: OFF
+Intrinsic instabilities detection: OFF
+Cancellation instabilities detection: OFF
+----------------------------------------------------------------
+ -----------------------------------------------------
+ CADNA software --- University P. et M. Curie --- LIP6
+ Self-validation detection: ON 
+ Mathematical instabilities detection: ON 
+ Branching instabilities detection: ON 
+ Intrinsic instabilities detection: ON 
+ Cancellation instabilities detection: ON 
+ -----------------------------------------------------
+
+Starting Yao : Yao v9.2.1.0 2011-07-05 ns generated the 04/29/13 10:27:31  
+Project GR4J. 
+(You are in double_st mode)
+        *************************************************************
+        **********  Assimiliation de donnees:modele HBV *************
+        *************************************************************
+Yao#>echo on
+Yao#>
+Yao#>
+Yao#>setstate X1  280   
+Yao#>setstate X2  1.1
+Yao#>setstate X3  380
+Yao#>setstate X4  6.8 
+Yao#>
+Yao#>
+Yao#>loadstate P 1 i 0 A 1   /usr/home/nylod/Desktop/GR4J/donneesBenin/plui3 D
+B:modul P: 2386 data read ; 2386 selected 
+Yao#>loadstate E 1 i 0 A 1  /usr/home/nylod/Desktop/GR4J/donneesBenin/ETP3 D
+B:modul E: 2386 data read ; 2386 selected 
+Yao#>
+Yao#>
+Yao#>
+Yao#>set_modeltime   0
+Yao#>FORWARD
+Yao#>
+Yao#>savestate QS    1 i  1% A 0  ./result/qtot.dat
+ 2416 state(s) selected saving module QS
+Yao#>load_inst ./script/save.i
+Yao#>savestate PS3 1  i  1% A 0  /usr/home/nylod/Desktop/GR4J/result/PS31
+ 2416 state(s) selected saving module PS3
+Yao#>savestate PS3 2  i  1% A 0  /usr/home/nylod/Desktop/GR4J/result/PS32
+ 2416 state(s) selected saving module PS3
+Yao#>
+Yao#>savestate SX1 1  i  1% A 0  /usr/home/nylod/Desktop/GR4J/result/SX1
+ 2416 state(s) selected saving module SX1
+Yao#>
+Yao#>
+Yao#>savestate MS1 1  i  1% A 0  /usr/home/nylod/Desktop/GR4J/result/MS11
+ 2416 state(s) selected saving module MS1
+Yao#>savestate MS3 1  i  1% A 0  /usr/home/nylod/Desktop/GR4J/result/MS3
+ 2416 state(s) selected saving module MS3
+Yao#>
+Yao#>savestate PS3 1  i  1% A 0  /usr/home/nylod/Desktop/GR4J/result/PS
+ 2416 state(s) selected saving module PS3
+Yao#>savestate PS3 2  i  1% A 0  /usr/home/nylod/Desktop/GR4J/result/ES
+ 2416 state(s) selected saving module PS3
+Yao#>
+Yao#>savestate MS24 1  i  1% A 0  /usr/home/nylod/Desktop/GR4J/result/MS241
+ 2416 state(s) selected saving module MS24
+Yao#>savestate MS21  1 i  1% A 0  /usr/home/nylod/Desktop/GR4J/result/MS21
+ 2416 state(s) selected saving module MS21
+Yao#>savestate MS23  1 i  1% A 0  /usr/home/nylod/Desktop/GR4J/result/MS23
+ 2416 state(s) selected saving module MS23
+Yao#>
+Yao#>savestate INTERC  1 i  1% A 0  /usr/home/nylod/Desktop/GR4J/result/INTERC1
+ 2416 state(s) selected saving module INTERC
+Yao#>savestate INTERC  2 i  1% A 0 /usr/home/nylod/Desktop/GR4J/result/INTERC2
+ 2416 state(s) selected saving module INTERC
+Yao#>
+Yao#>savestate PR  1 i  1% A 0 /usr/home/nylod/Desktop/GR4J/result/PR
+ 2416 state(s) selected saving module PR
+Yao#>
+Yao#>savestate Q1  1 i  1% A 0 /usr/home/nylod/Desktop/GR4J/result/Q1
+ 2416 state(s) selected saving module Q1
+Yao#>savestate Q9  1 i  1% A 0 /usr/home/nylod/Desktop/GR4J/result/Q9
+ 2416 state(s) selected saving module Q9
+Yao#>
+Yao#>savestate F  1 i  1% A 0 /usr/home/nylod/Desktop/GR4J/result/F
+ 2416 state(s) selected saving module F
+Yao#>savestate R1  1 i  1% A 0 /usr/home/nylod/Desktop/GR4J/result/R1
+ 2416 state(s) selected saving module R1
+Yao#>savestate R2  1 i  1% A 0 /usr/home/nylod/Desktop/GR4J/result/R2
+ 2416 state(s) selected saving module R2
+Yao#>
+Yao#>savestate QR  1 i  1% A 0 /usr/home/nylod/Desktop/GR4J/result/QR
+ 2416 state(s) selected saving module QR
+Yao#>
+Yao#>savestate X1  1 i  0  A 0  /usr/home/nylod/Desktop/GR4J/result/X1
+ 1 state(s) selected saving module X1
+Yao#>savestate X2  1 i  0  A 0  /usr/home/nylod/Desktop/GR4J/result/X2
+ 1 state(s) selected saving module X2
+Yao#>savestate X3  1 i  0  A 0  /usr/home/nylod/Desktop/GR4J/result/X3
+ 1 state(s) selected saving module X3
+Yao#>savestate X4  1 i  0  A 0  /usr/home/nylod/Desktop/GR4J/result/X4
+ 1 state(s) selected saving module X4
+Yao#>
+Yao#>savestate QS  1 i  0  A 0  /usr/home/nylod/Desktop/GR4J/result/QS
+ 2416 state(s) selected saving module QS
+Yao#>
+Yao#>
+Yao#>
+Yao#>
+Yao#>loadobs QS 1 i 0 A 1  /usr/home/nylod/Desktop/GR4J/donneesBenin/debit3 D
+modul QS: 2386 data read ; 2386 state(s) selected as obs (2386 inserted + 0 overrided)
+Yao#>
+Yao#>
+Yao#>
+Yao#>
+Yao#>
+Yao#>load_inst /usr/home/nylod/Desktop/GR4J/script/sensiblite.i
+Yao#>
+Yao#>testof 1 1 10.0 10 0
+
+testof : NEW : use of new function set_dxalea ()
+
+ Objective Function TEST : with: pdx =  0.100000000000000E+001, (a)lpha =  0.100000000000000E+001
+ -------------------------       fdec=  0.100000000000000E+002, (n)bloop= 10
+ nb 1) dx = Xo * pdx 
+    2) a(n) = a(n-1) / fdec 
+                              g = (J(Xo+a.dx) - J(Xo) - (@J/@Xo).a.dx
+         a decrease        ordre 1: (g)-->0     ordre 2: [(g)/(a.a)]-->K 
+                                 Cost function: J(Xo) =  0.24236304114626E+008   J(Xo+a.dx)  (@J/@Xo).a.dx
+   :  1:  0.100000000000000E+000 : -0-> -0.1421127449E+004 -K-> -0.1421127449E+006  0.243055453635476E+008  0.706623763705055E+005  0.69241248921E+005
+   :  2:  0.100000000000000E-001 : -0-> -0.1040114E+002 -K-> -0.1040114E+006  0.242433599511161E+008  0.706623763705055E+004  0.7055836489E+004
+   :  3:  0.100000000000000E-002 : -0-> -0.999092E-001 -K-> -0.999092E+005  0.242370106384810E+008  0.706623763705055E+003  0.706523854E+003
+   :  4:  0.999999999999999E-004 : -0-> -0.9950E-003 -K-> -0.9950E+005  0.24236374776007E+008  0.706623763705055E+002  0.70661381E+002
+   :  5:  0.999999999999999E-005 : -0-> -0.99E-005 -K-> -0.99E+005  0.24236311180854E+008  0.706623763705055E+001  0.7066227E+001
+   :  6:  0.100000000000000E-005 : -0->  @.0                    -K->  @.0                     0.24236304821250E+008  0.706623763705055E+000  0.706623E+000
+   :  7:  0.100000000000000E-006 : -0->  @.0                    -K->  @.0                     0.24236304185288E+008  0.706623763705055E-001  0.70662E-001
+   :  8:  0.999999999999999E-008 : -0->  @.0                    -K->  @.0                     0.24236304121692E+008  0.706623763705055E-002  0.7066E-002
+   :  9:  0.100000000000000E-008 : -0->  @.0                    -K->  @.0                     0.24236304115333E+008  0.706623763705055E-003  0.706E-003
+   : 10:  0.100000000000000E-009 : -0->  @.0                    -K->  @.0                     0.24236304114697E+008  0.706623763705055E-004  0.70E-004
+Yao#>
+Yao#>
+Yao#>
+Yao#>
+Yao#>
+Yao#>
+Yao#>
+Yao#>
+Yao#>goto fin
+----------------------------------------------------------------
+CADNA_C 1.1.6 software --- University P. et M. Curie --- LIP6
+No instability detected
+----------------------------------------------------------------
+ -----------------------------------------------------
+ CADNA software --- University P. et M. Curie --- LIP6
+ No instability detected
+ -----------------------------------------------------
+adonis{nylod}862: ./GR4J > out_cadna.log
+adonis{nylod}863: mv re
+residu.png  result/     
+adonis{nylod}863: mv residu.png residu_sanscadna.png
+adonis{nylod}864: ./sc
+script/          script.sh        script_test.sh   script_YREAL.sh  
+adonis{nylod}864: ./script_test.sh out_cadna.log 
+Warning: No window system found.  Java option 'MWT' ignored
+
+                                                             < M A T L A B (R) >
+                                                   Copyright 1984-2010 The MathWorks, Inc.
+                                                Version 7.11.0.584 (R2010b) 64-bit (glnxa64)
+                                                               August 16, 2010
+
+ 
+  To get started, type one of these: helpwin, helpdesk, or demo.
+  For product information, visit www.mathworks.com.
+ 
+adonis{nylod}865: mv re
+residu.png            residu_sanscadna.png  result/               
+adonis{nylod}865: mv resi
+residu.png            residu_sanscadna.png  
+adonis{nylod}865: mv residu.png resid
+residu.png            residu_sanscadna.png  
+adonis{nylod}865: mv residu.png residu_aveccadna.png
+adonis{nylod}866: eog re
+residu_aveccadna.png  residu_sanscadna.png  result/               
+adonis{nylod}866: eog resid
+residu_aveccadna.png  residu_sanscadna.png  
+adonis{nylod}866: eog residu_aveccadna.png 
+Xlib:  extension "RANDR" missing on display "localhost:27.0".
+adonis{nylod}867: eog residu_aveccadna.png ^C
+adonis{nylod}867: c

@@ -1,0 +1,28 @@
+
+
+load DebitHV4
+load qtot.dat
+load qtot_assim.dat
+
+debit=DebitHV4;
+
+qtot1=qtot_assim(31:end);
+%qtot1=qtot(31:end);
+somme=0;
+somme2=0;
+Qbar=mean(debit(:,3));
+for i=1:14980
+	somme=(debit(i,3)-qtot1(i))^2+somme;
+	somme2=somme2+(debit(i,3)-Qbar)^2;
+end
+div=somme/somme2;
+nash=(1-div)*100 ;
+a=[31.75,18.56,68.81,52.75,67.08,25.75,4.38, 42.32];
+ b=[86.32,80.17,84.16,84,87.11,87.06,87,84.76];
+
+
+
+x1=[686 750 556 616 605 338 170 577];       
+x2=[3 -18 -4 -34 -21 2  -29 -40];        
+x3=[ 164 44 70 449 382 185 37 248];      
+x4=[3.8 4 0.4 2.8 1.2 2  1.7 3];     

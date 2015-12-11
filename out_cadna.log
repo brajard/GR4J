@@ -1,0 +1,156 @@
+----------------------------------------------------------------
+CADNA_C 1.1.6 software --- University P. et M. Curie --- LIP6
+Self-validation detection: ON
+Mathematical instabilities detection: OFF
+Branching instabilities detection: OFF
+Intrinsic instabilities detection: OFF
+Cancellation instabilities detection: OFF
+----------------------------------------------------------------
+
+Starting Yao : Yao v9.2.1.0 2011-07-05 ns generated the 04/29/13 10:27:31  
+Project GR4J. 
+(You are in double_st mode)
+	*************************************************************
+	**********  Assimiliation de donnees:modele HBV *************
+	*************************************************************
+Yao#>echo on
+Yao#>
+Yao#>
+Yao#>setstate X1  280   
+Yao#>setstate X2  1.1
+Yao#>setstate X3  380
+Yao#>setstate X4  6.8 
+Yao#>
+Yao#>
+Yao#>loadstate P 1 i 0 A 1   /usr/home/nylod/Desktop/GR4J/donneesBenin/plui3 D
+B:modul P: 2386 data read ; 2386 selected 
+Yao#>loadstate E 1 i 0 A 1  /usr/home/nylod/Desktop/GR4J/donneesBenin/ETP3 D
+B:modul E: 2386 data read ; 2386 selected 
+Yao#>
+Yao#>
+Yao#>
+Yao#>set_modeltime   0
+Yao#>FORWARD
+Yao#>
+Yao#>savestate QS    1 i  1% A 0  ./result/qtot.dat	
+ 2416 state(s) selected saving module QS
+Yao#>load_inst ./script/save.i
+Yao#>savestate PS3 1  i  1% A 0  /usr/home/nylod/Desktop/GR4J/result/PS31
+ 2416 state(s) selected saving module PS3
+Yao#>savestate PS3 2  i  1% A 0  /usr/home/nylod/Desktop/GR4J/result/PS32
+ 2416 state(s) selected saving module PS3
+Yao#>
+Yao#>savestate SX1 1  i  1% A 0  /usr/home/nylod/Desktop/GR4J/result/SX1
+ 2416 state(s) selected saving module SX1
+Yao#>
+Yao#>
+Yao#>savestate MS1 1  i  1% A 0  /usr/home/nylod/Desktop/GR4J/result/MS11
+ 2416 state(s) selected saving module MS1
+Yao#>savestate MS3 1  i  1% A 0  /usr/home/nylod/Desktop/GR4J/result/MS3
+ 2416 state(s) selected saving module MS3
+Yao#>
+Yao#>savestate PS3 1  i  1% A 0  /usr/home/nylod/Desktop/GR4J/result/PS
+ 2416 state(s) selected saving module PS3
+Yao#>savestate PS3 2  i  1% A 0  /usr/home/nylod/Desktop/GR4J/result/ES
+ 2416 state(s) selected saving module PS3
+Yao#>
+Yao#>savestate MS24 1  i  1% A 0  /usr/home/nylod/Desktop/GR4J/result/MS241
+ 2416 state(s) selected saving module MS24
+Yao#>savestate MS21  1 i  1% A 0  /usr/home/nylod/Desktop/GR4J/result/MS21
+ 2416 state(s) selected saving module MS21
+Yao#>savestate MS23  1 i  1% A 0  /usr/home/nylod/Desktop/GR4J/result/MS23
+ 2416 state(s) selected saving module MS23
+Yao#>
+Yao#>savestate INTERC  1 i  1% A 0  /usr/home/nylod/Desktop/GR4J/result/INTERC1
+ 2416 state(s) selected saving module INTERC
+Yao#>savestate INTERC  2 i  1% A 0 /usr/home/nylod/Desktop/GR4J/result/INTERC2
+ 2416 state(s) selected saving module INTERC
+Yao#>
+Yao#>savestate PR  1 i  1% A 0 /usr/home/nylod/Desktop/GR4J/result/PR
+ 2416 state(s) selected saving module PR
+Yao#>
+Yao#>savestate Q1  1 i  1% A 0 /usr/home/nylod/Desktop/GR4J/result/Q1
+ 2416 state(s) selected saving module Q1
+Yao#>savestate Q9  1 i  1% A 0 /usr/home/nylod/Desktop/GR4J/result/Q9
+ 2416 state(s) selected saving module Q9
+Yao#>
+Yao#>savestate F  1 i  1% A 0 /usr/home/nylod/Desktop/GR4J/result/F
+ 2416 state(s) selected saving module F
+Yao#>savestate R1  1 i  1% A 0 /usr/home/nylod/Desktop/GR4J/result/R1
+ 2416 state(s) selected saving module R1
+Yao#>savestate R2  1 i  1% A 0 /usr/home/nylod/Desktop/GR4J/result/R2
+ 2416 state(s) selected saving module R2
+Yao#>
+Yao#>savestate QR  1 i  1% A 0 /usr/home/nylod/Desktop/GR4J/result/QR
+ 2416 state(s) selected saving module QR
+Yao#>
+Yao#>savestate X1  1 i  0  A 0  /usr/home/nylod/Desktop/GR4J/result/X1
+ 1 state(s) selected saving module X1
+Yao#>savestate X2  1 i  0  A 0  /usr/home/nylod/Desktop/GR4J/result/X2
+ 1 state(s) selected saving module X2
+Yao#>savestate X3  1 i  0  A 0  /usr/home/nylod/Desktop/GR4J/result/X3
+ 1 state(s) selected saving module X3
+Yao#>savestate X4  1 i  0  A 0  /usr/home/nylod/Desktop/GR4J/result/X4
+ 1 state(s) selected saving module X4
+Yao#>
+Yao#>savestate QS  1 i  0  A 0  /usr/home/nylod/Desktop/GR4J/result/QS
+ 2416 state(s) selected saving module QS
+Yao#>
+Yao#>
+Yao#>
+Yao#>
+Yao#>loadobs QS 1 i 0 A 1  /usr/home/nylod/Desktop/GR4J/donneesBenin/debit3 D
+modul QS: 2386 data read ; 2386 state(s) selected as obs (2386 inserted + 0 overrided)
+Yao#>
+Yao#>
+Yao#>
+Yao#>
+Yao#>
+Yao#>load_inst /usr/home/nylod/Desktop/GR4J/script/sensiblite.i
+Yao#>
+Yao#>testof 1 1 10.0 10 0
+
+testof : NEW : use of new function set_dxalea ()
+
+ Objective Function TEST : with: pdx =  0.100000000000000E+001, (a)lpha =  0.100000000000000E+001
+ -------------------------       fdec=  0.100000000000000E+002, (n)bloop= 10
+ nb 1) dx = Xo * pdx 
+    2) a(n) = a(n-1) / fdec 
+                              g = (J(Xo+a.dx) - J(Xo) - (@J/@Xo).a.dx
+         a decrease        ordre 1: (g)-->0     ordre 2: [(g)/(a.a)]-->K 
+                                 Cost function: J(Xo) =  0.24236304114626E+008   J(Xo+a.dx)  (@J/@Xo).a.dx
+   :  1:  0.100000000000000E+000 : -0-> -0.1421127449E+004 -K-> -0.1421127449E+006  0.243055453635476E+008  0.706623763705055E+005  0.69241248921E+005
+   :  2:  0.100000000000000E-001 : -0-> -0.1040114E+002 -K-> -0.1040114E+006  0.242433599511161E+008  0.706623763705055E+004  0.7055836489E+004
+   :  3:  0.100000000000000E-002 : -0-> -0.999092E-001 -K-> -0.999092E+005  0.242370106384810E+008  0.706623763705055E+003  0.706523854E+003
+   :  4:  0.999999999999999E-004 : -0-> -0.9950E-003 -K-> -0.9950E+005  0.24236374776007E+008  0.706623763705055E+002  0.70661381E+002
+   :  5:  0.999999999999999E-005 : -0-> -0.99E-005 -K-> -0.99E+005  0.24236311180854E+008  0.706623763705055E+001  0.7066227E+001
+   :  6:  0.100000000000000E-005 : -0->  @.0                    -K->  @.0                     0.24236304821250E+008  0.706623763705055E+000  0.706623E+000
+   :  7:  0.100000000000000E-006 : -0->  @.0                    -K->  @.0                     0.24236304185288E+008  0.706623763705055E-001  0.70662E-001
+   :  8:  0.999999999999999E-008 : -0->  @.0                    -K->  @.0                     0.24236304121692E+008  0.706623763705055E-002  0.7066E-002
+   :  9:  0.100000000000000E-008 : -0->  @.0                    -K->  @.0                     0.24236304115333E+008  0.706623763705055E-003  0.706E-003
+   : 10:  0.100000000000000E-009 : -0->  @.0                    -K->  @.0                     0.24236304114697E+008  0.706623763705055E-004  0.70E-004
+Yao#>
+Yao#>
+Yao#>
+Yao#>
+Yao#>
+Yao#>
+Yao#>
+Yao#>
+Yao#>goto fin
+----------------------------------------------------------------
+CADNA_C 1.1.6 software --- University P. et M. Curie --- LIP6
+No instability detected
+----------------------------------------------------------------
+ -----------------------------------------------------
+ CADNA software --- University P. et M. Curie --- LIP6
+ Self-validation detection: ON 
+ Mathematical instabilities detection: ON 
+ Branching instabilities detection: ON 
+ Intrinsic instabilities detection: ON 
+ Cancellation instabilities detection: ON 
+ -----------------------------------------------------
+ -----------------------------------------------------
+ CADNA software --- University P. et M. Curie --- LIP6
+ No instability detected
+ -----------------------------------------------------

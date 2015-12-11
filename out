@@ -1,0 +1,247 @@
+
+Starting Yao : YaoI V.9 01.11.2008 (release 01.11.2008)   
+Project GR4J. 
+(You are in double mode)
+	*************************************************************
+	**********  Assimiliation de donnees:modele HBV *************
+	*************************************************************
+Yao#>echo on
+Yao#>
+Yao#>
+Yao#>
+Yao#>setstate X1  131.3
+Yao#>setstate X2  -18
+Yao#>setstate X3  407.6
+Yao#>setstate X4  11 
+Yao#>
+Yao#>
+Yao#>
+Yao#>loadstate P 1 i 0 A 1   /usr/home/nylod/Desktop/GR4J/donneesBenin/plui3 D
+B:modul P: 2386 data read ; 2386 selected 
+Yao#>loadstate E 1 i 0 A 1  /usr/home/nylod/Desktop/GR4J/donneesBenin/ETP3 D
+B:modul E: 2386 data read ; 2386 selected 
+Yao#>
+Yao#>
+Yao#>set_modeltime   0
+Yao#>FORWARD
+Yao#>
+Yao#>savestate QS    1 i  1% A 0  /usr/home/nylod/Desktop/GR4J/result/qtot.dat	
+ 2416 state(s) selected saving module QS
+Yao#>load_inst  /usr/home/nylod/Desktop/GR4J/script/save.i
+Yao#>savestate PS3 1  i  1% A 0  /usr/home/nylod/Desktop/GR4J/result/PS31
+ 2416 state(s) selected saving module PS3
+Yao#>savestate PS3 2  i  1% A 0  /usr/home/nylod/Desktop/GR4J/result/PS32
+ 2416 state(s) selected saving module PS3
+Yao#>
+Yao#>savestate SX1 1  i  1% A 0  /usr/home/nylod/Desktop/GR4J/result/SX1
+ 2416 state(s) selected saving module SX1
+Yao#>
+Yao#>
+Yao#>savestate MS1 1  i  1% A 0  /usr/home/nylod/Desktop/GR4J/result/MS11
+ 2416 state(s) selected saving module MS1
+Yao#>savestate MS3 1  i  1% A 0  /usr/home/nylod/Desktop/GR4J/result/MS3
+ 2416 state(s) selected saving module MS3
+Yao#>
+Yao#>savestate PS3 1  i  1% A 0  /usr/home/nylod/Desktop/GR4J/result/PS
+ 2416 state(s) selected saving module PS3
+Yao#>savestate PS3 2  i  1% A 0  /usr/home/nylod/Desktop/GR4J/result/ES
+ 2416 state(s) selected saving module PS3
+Yao#>
+Yao#>savestate MS24 1  i  1% A 0  /usr/home/nylod/Desktop/GR4J/result/MS241
+ 2416 state(s) selected saving module MS24
+Yao#>savestate MS21  1 i  1% A 0  /usr/home/nylod/Desktop/GR4J/result/MS21
+ 2416 state(s) selected saving module MS21
+Yao#>savestate MS23  1 i  1% A 0  /usr/home/nylod/Desktop/GR4J/result/MS23
+ 2416 state(s) selected saving module MS23
+Yao#>
+Yao#>savestate INTERC  1 i  1% A 0  /usr/home/nylod/Desktop/GR4J/result/INTERC1
+ 2416 state(s) selected saving module INTERC
+Yao#>savestate INTERC  2 i  1% A 0 /usr/home/nylod/Desktop/GR4J/result/INTERC2
+ 2416 state(s) selected saving module INTERC
+Yao#>
+Yao#>savestate PR  1 i  1% A 0 /usr/home/nylod/Desktop/GR4J/result/PR
+ 2416 state(s) selected saving module PR
+Yao#>
+Yao#>savestate Q1  1 i  1% A 0 /usr/home/nylod/Desktop/GR4J/result/Q1
+ 2416 state(s) selected saving module Q1
+Yao#>savestate Q9  1 i  1% A 0 /usr/home/nylod/Desktop/GR4J/result/Q9
+ 2416 state(s) selected saving module Q9
+Yao#>
+Yao#>savestate F  1 i  1% A 0 /usr/home/nylod/Desktop/GR4J/result/F
+ 2416 state(s) selected saving module F
+Yao#>savestate R1  1 i  1% A 0 /usr/home/nylod/Desktop/GR4J/result/R1
+ 2416 state(s) selected saving module R1
+Yao#>savestate R2  1 i  1% A 0 /usr/home/nylod/Desktop/GR4J/result/R2
+ 2416 state(s) selected saving module R2
+Yao#>
+Yao#>savestate QR  1 i  1% A 0 /usr/home/nylod/Desktop/GR4J/result/QR
+ 2416 state(s) selected saving module QR
+Yao#>
+Yao#>savestate X1  1 i  0  A 0  /usr/home/nylod/Desktop/GR4J/result/X1
+ 1 state(s) selected saving module X1
+Yao#>savestate X2  1 i  0  A 0  /usr/home/nylod/Desktop/GR4J/result/X2
+ 1 state(s) selected saving module X2
+Yao#>savestate X3  1 i  0  A 0  /usr/home/nylod/Desktop/GR4J/result/X3
+ 1 state(s) selected saving module X3
+Yao#>savestate X4  1 i  0  A 0  /usr/home/nylod/Desktop/GR4J/result/X4
+ 1 state(s) selected saving module X4
+Yao#>
+Yao#>savestate QS  1 i  0  A 0  /usr/home/nylod/Desktop/GR4J/result/QS
+ 2416 state(s) selected saving module QS
+Yao#>
+Yao#>
+Yao#>
+Yao#>
+Yao#>loadobs QS 1 i 0 A 1  /usr/home/nylod/Desktop/GR4J/donneesBenin/debit3 D
+modul QS: 2386 data read ; 2386 state(s) selected as obs (2386 inserted + 0 overrided)
+Yao#>
+Yao#>loadobs   QS 1 i 0 A 0   /usr/home/nylod/Desktop/GR4J1/result/qtot.dat D
+modul QS: 43839 data read ; 318 state(s) selected as obs (0 inserted + 318 overrided)
+Yao#>
+Yao#>load_inst /usr/home/nylod/Desktop/GR4J/script/sensiblite.i
+Yao#>
+Yao#>
+Yao#>
+Yao#>
+Yao#>
+Yao#>
+Yao#>
+Yao#>
+Yao#>
+Yao#>
+Yao#>
+Yao#>cost lms 0.5
+Yao#>
+Yao#>setstate X1  131.3
+Yao#>setstate X2  -18
+Yao#>setstate X3  407.6
+Yao#>setstate X4  11 
+Yao#>
+Yao#>
+Yao#>
+Yao#>setm_impres   5
+Yao#>setm_io       6
+Yao#>setm_mode     1
+Yao#>set_nbiter  200
+Yao#>setm_nsim   200
+Yao#>setm_dxmin    1.0e-20
+Yao#>setm_epsg     1.0e-20
+Yao#>setm_ddf1     100
+Yao#>
+Yao#>
+Yao#>xdisplay
+setstate X1   1.31300000e+02  
+setstate X2  -1.80000000e+01  
+setstate X3   4.07600000e+02  
+setstate X4   1.10000000e+01  
+S-----------  0.00000000e+00  
+R-----------  0.00000000e+00  
+Yao#>runm									
+
+start run time: Thu Jun 27 16:16:41 2013
+
+Yao#>(6) Arret sur dxmin pendant le line-search 
+
+start run time ....: Thu Jun 27 16:16:41 2013
+  end run time ....: Thu Jun 27 16:16:44 2013
+  run duration ....: 3s
+
+Yao#>xdisplay
+setstate X1   1.29029037e+02  
+setstate X2   2.67353630e+01  
+setstate X3   4.07927490e+02  
+setstate X4  -9.53674316e-07  
+S-----------  0.00000000e+00  
+R-----------  0.00000000e+00  
+Yao#>
+Yao#>
+Yao#>savestate X1  1 i  0  A 0  /usr/home/nylod/Desktop/GR4J/result/toto1
+ 1 state(s) selected saving module X1
+Yao#>savestate X2  1 i  0 A 0  /usr/home/nylod/Desktop/GR4J/result/toto2
+ 1 state(s) selected saving module X2
+Yao#>savestate X3  1 i  0 A 0  /usr/home/nylod/Desktop/GR4J/result/toto3
+ 1 state(s) selected saving module X3
+Yao#>savestate X4  1 i  0  A 0  /usr/home/nylod/Desktop/GR4J/result/toto4
+ 1 state(s) selected saving module X4
+Yao#>
+Yao#>
+
+ m1qn3 (version 2.0b, december 1993): entry point
+     dimension of the problem (n):        4
+     absolute precision on x (dxmin): 0.10E-19
+     expected decrease for f (df1): 0.12E+06
+     relative precision on g (epsg): 0.10E-19
+     maximal number of iterations (niter):   200
+     maximal number of simulations (nsim):   200
+     printing level (impres):   5
+
+ m1qn3: scalar initial scaling mode
+
+     allocated memory (nrz) :       88
+     used memory :                  84
+     number of updates :             8
+     (y,s) pairs are stored in core memory
+
+ m1qn3: cold start
+
+     f         =  0.12263404E+08
+     norm of g =  0.67052280E+04
+
+ m1qn3a: descent direction -g: precon =  0.546E-02
+
+ -------------------------------------------------------------------------------
+
+ m1qn3: iter   1, simul   1, f= 0.12263404E+08, h'(0)=-0.24527D+06
+
+ m1qn3: line search
+
+     mlis0       fpn=-0.245E+06 d2= 0.13E+04  tmin= 0.28E-21 tmax= 0.10E+21
+     mlis3     0.100E+01 -0.870E+06 -0.178E+07
+     mlis2                                      0.100E+02  0.316E+06 -0.199E-16
+     mlis2                                      0.361E+01  0.316E+06 -0.205E-16
+     mlis2                                      0.359E+01  0.316E+06 -0.205E-16
+     mlis2                                      0.346E+01  0.316E+06 -0.205E-16
+     mlis2                                      0.284E+01  0.316E+06 -0.205E-16
+     mlis2                                      0.229E+01  0.316E+06 -0.206E-16
+     mlis2                                      0.190E+01  0.316E+06 -0.206E-16
+     mlis2                                      0.163E+01  0.316E+06 -0.206E-16
+     mlis2                                      0.144E+01  0.316E+06 -0.207E-16
+     mlis2                                      0.131E+01  0.316E+06 -0.207E-16
+     mlis3     0.122E+01 -0.132E+07 -0.252E+07
+     mlis3     0.124E+01 -0.139E+07 -0.263E+07
+     mlis2                                      0.129E+01  0.316E+06 -0.138E-13
+     mlis2                                      0.128E+01  0.316E+06 -0.138E-13
+     mlis2                                      0.127E+01  0.316E+06 -0.138E-13
+     mlis3     0.126E+01 -0.144E+07 -0.270E+07
+     mlis2                                      0.126E+01  0.316E+06 -0.138E-13
+     mlis2                                      0.126E+01  0.316E+06 -0.138E-13
+     mlis2                                      0.126E+01  0.316E+06 -0.138E-13
+     mlis2                                      0.126E+01  0.316E+06 -0.138E-13
+     mlis3     0.126E+01 -0.144E+07 -0.270E+07
+     mlis3     0.126E+01 -0.144E+07 -0.270E+07
+     mlis2                                      0.126E+01  0.316E+06 -0.138E-13
+     mlis2                                      0.126E+01  0.316E+06 -0.138E-13
+     mlis2                                      0.126E+01  0.316E+06 -0.138E-13
+     mlis3     0.126E+01 -0.144E+07 -0.270E+07
+     mlis3     0.126E+01 -0.144E+07 -0.270E+07
+     mlis2                                      0.126E+01  0.316E+06 -0.138E-13
+     mlis3     0.126E+01 -0.144E+07 -0.270E+07
+     mlis3     0.126E+01 -0.144E+07 -0.270E+07
+     mlis2                                      0.126E+01  0.316E+06 -0.138E-13
+     mlis3     0.126E+01 -0.144E+07 -0.270E+07
+     mlis3     0.126E+01 -0.144E+07 -0.270E+07
+     mlis2                                      0.126E+01  0.316E+06 -0.138E-13
+
+     mlis1   STOP on tmin        step           functions     derivatives
+     mlis5                  0.12609825E+01    0.10825558E+08 -0.270E+07
+     mlis5                  0.12609826E+01    0.12579698E+08 -0.138E-13
+
+ -------------------------------------------------------------------------------
+
+ m1qn3: output mode is  6
+     number of iterations:    1
+     number of simulations:     36
+     realized relative precision on g:  0.10E+01
+     norm of x =  0.42868182E+03
+     f         =  0.10825558E+08
+     norm of g =  0.39993235E-15
